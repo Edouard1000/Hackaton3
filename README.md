@@ -6,20 +6,8 @@
 - Prof. D. Hainaut
 - Prof. L. Jacques
 
-### Teaching Assistants
-- Adrien Banse
-- Jana Jovcheva
-- François Lessage
-- Sofiane Tanji
-
 ### Version
 2024-2025
-
----
-
-## Important
-**Read all the documentation**  
-Make sure that you read the whole notebook, and the `README.md` file in the folder.
 
 ---
 
